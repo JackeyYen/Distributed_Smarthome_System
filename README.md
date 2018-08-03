@@ -1,2 +1,2 @@
-# Distributed_smarthome_system
+# Distributed_Smarthome_System
 包含服务器与多节点的分布式智能家居系统
